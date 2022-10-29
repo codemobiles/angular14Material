@@ -3,3 +3,4 @@ ng new angular14Material
  - use scss
 
 ng add @angular/material 
+ng g m material --module=app
